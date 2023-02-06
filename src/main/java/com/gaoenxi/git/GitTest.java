@@ -4,6 +4,7 @@ public class GitTest {
     public static void main(String[] args) {
 
         System.out.println("Pan Ga Zhi Jiao!");
+        System.out.println("Jia Jiu!");
 
     }
 }
