@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("Hello Pan Zi");
         System.out.println("Hello Pan Zi!!!!");
         System.out.println("push test");
+        System.out.println("pull test");
 
     }
 }
